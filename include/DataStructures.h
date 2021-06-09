@@ -4,7 +4,7 @@
 #include <iostream>
 #include "Utilities.h"
 
-namespace stLib
+namespace stLib 
 {
 	template<typename Type>
 	class templatedString
